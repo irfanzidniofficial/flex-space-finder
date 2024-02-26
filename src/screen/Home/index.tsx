@@ -34,13 +34,13 @@ function Home(): React.JSX.Element {
     {
       title: 'Collabox',
       address: 'Jl. Indraprasta No.10',
-      price: '75K/ day',
+      price: '$421/day',
       image: ItemSecondA,
     },
     {
       title: 'Hetero Space',
       address: 'Jl. Setia Budi No.192',
-      price: '35K / day',
+      price: '$500/day',
       image: ItemSecondB,
     },
   ];
@@ -93,14 +93,14 @@ function Home(): React.JSX.Element {
         <View style={styles.popularContent}>
           <View>
             <Text style={[GlobalStyle.h2, GlobalStyle.textBlack]}>
-              IndoWork
+              Collabox Space
             </Text>
             <Text style={GlobalStyle.textBlack}>
               Jalan Pamularsih No. 10 Semarang
             </Text>
           </View>
           <View style={styles.popularPriceContainer}>
-            <Text style={styles.popularPriceLabel}>75K /day</Text>
+            <Text style={styles.popularPriceLabel}>$421/day</Text>
           </View>
         </View>
       </View>

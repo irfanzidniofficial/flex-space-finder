@@ -17,6 +17,7 @@ import IcDays from './days.png';
 import IcWallet from './wallet.png';
 import IcMasterCard from './mastercard.png';
 import IcPay from './pay.png';
+import IcStarWhite from './star_white.png';
 
 export {
   IcArrowLefBlack,
@@ -38,4 +39,5 @@ export {
   IcWallet,
   IcMasterCard,
   IcPay,
+  IcStarWhite,
 };
