@@ -10,7 +10,10 @@ import IcPayment from './payment.png';
 import IcMenu from './menu.png';
 import IcStarYellow from './star_yellow.png';
 import IcVerifiedOrange from './verified_orange.png';
-
+import IcCalendar from './calendar.png';
+import IcPhone from './phone.png';
+import IcUser from './user.png';
+import IcDays from './days.png';
 
 export {
   IcArrowLefBlack,
@@ -24,5 +27,9 @@ export {
   IcPayment,
   IcMenu,
   IcStarYellow,
-  IcVerifiedOrange
+  IcVerifiedOrange,
+  IcCalendar,
+  IcPhone,
+  IcUser,
+  IcDays,
 };
