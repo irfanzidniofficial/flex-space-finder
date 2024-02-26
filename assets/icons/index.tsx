@@ -6,6 +6,23 @@ import IcLocation from './location.png';
 import IcDiscover from './discover.png';
 import IcMessage from './messages.png';
 import IcSetting from './settings.png';
-import IcPayment from './payment.png'
+import IcPayment from './payment.png';
+import IcMenu from './menu.png';
+import IcStarYellow from './star_yellow.png';
+import IcVerifiedOrange from './verified_orange.png';
 
-export {IcArrowLefBlack, IcArrowRightWhite, IcGift, IcNotification, IcLocation, IcDiscover, IcMessage, IcSetting, IcPayment};
+
+export {
+  IcArrowLefBlack,
+  IcArrowRightWhite,
+  IcGift,
+  IcNotification,
+  IcLocation,
+  IcDiscover,
+  IcMessage,
+  IcSetting,
+  IcPayment,
+  IcMenu,
+  IcStarYellow,
+  IcVerifiedOrange
+};

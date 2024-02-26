@@ -5,7 +5,7 @@ import {SafeAreaView, StyleSheet, Text, View} from 'react-native';
 function Booking(): React.JSX.Element {
   return (
     <View style={styles.container}>
-      <Text>Hello Word</Text>
+      <Text>Booking Page</Text>
     </View>
   );
 }
