@@ -14,6 +14,9 @@ import IcCalendar from './calendar.png';
 import IcPhone from './phone.png';
 import IcUser from './user.png';
 import IcDays from './days.png';
+import IcWallet from './wallet.png';
+import IcMasterCard from './mastercard.png';
+import IcPay from './pay.png';
 
 export {
   IcArrowLefBlack,
@@ -32,4 +35,7 @@ export {
   IcPhone,
   IcUser,
   IcDays,
+  IcWallet,
+  IcMasterCard,
+  IcPay,
 };
